@@ -25,6 +25,8 @@ Copy the private key and click done.
 Open the metamask menu which can be accessed by clicking the profile picture and select import account.
 Paste the private key copied from ganache and click import.
 Cloning the project
+
+
 git clone https://github.com/RishanRajapaksha/online-voting.git
 
 cd online-voting
